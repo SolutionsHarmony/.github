@@ -1,1 +1,1 @@
-<div align="center"><img src="../assets/SolutionsHarmony logo.png"></img></div>
+<div align="center"><img style="width: 500px; height: auto;" src="../assets/SolutionsHarmony logo.png"></img></div>
